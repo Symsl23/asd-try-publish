@@ -1,0 +1,16 @@
+streamlit
+face_recognition
+opencv-python-headless
+Pillow
+pandas
+numpy
+gspread
+oauth2client
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+plotly
+seaborn
+matplotlib
+pyyaml
